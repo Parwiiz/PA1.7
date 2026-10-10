@@ -9,7 +9,7 @@ def main():
             continue
         else:
             total += compute_ratio(10, v)
-    print("Total:", total)
+    print("Totall:", total)
 
 if __name__ == "__main__":
     main()
