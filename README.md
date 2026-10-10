@@ -10,7 +10,7 @@ In this assignment you’ll make exercises on the following topics:
   - [Setting up VS Code for Python debugging](1_setup_debug.md)
   - [Debugging a py file](2_debug_py_file.md)
   - [Debugging a Jupyter Notebook cell](3_debug_notebook.ipynb)
-  - [Rubber Ducky Debugging (Optional)](4_rubber_ducky.ipynb) 
+  - [Rubber Ducky Debugging](4_rubber_ducky.ipynb) 
 
 The autograder checks the following aspects of your work for each push to GitHub: Debugged `debug_example.py` using breakpoints, stepping commands, exception breakpoints, and conditional breakpoints preventing the `ZeroDivisionError`.
 
